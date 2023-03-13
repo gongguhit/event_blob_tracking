@@ -118,8 +118,8 @@ int main(int argc, char** argv){
     cout << "Blob tracking." << endl;
 
     // Load events
-    string path = "/home/gg/Desktop/event/event_blob_tracking/data/night2_output.csv";
-    string event_frame_folder = "/home/gg/Desktop/event/event_blob_tracking/data/images";
+    string path = "/home/gg/Downloads/event/event_blob_tracking/data/night2_output.csv";
+    string event_frame_folder = "/home/gg/Downloads/event/event_blob_tracking/data/images";
     vector<Event> full_events = loadEvents(path);
     cout << "--> loaded " << full_events.size() << " events." << endl;
 

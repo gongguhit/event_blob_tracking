@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/blob_tracking.dir/src/blob.cpp.o"
-  "CMakeFiles/blob_tracking.dir/src/blob.cpp.o.d"
   "CMakeFiles/blob_tracking.dir/src/main.cpp.o"
-  "CMakeFiles/blob_tracking.dir/src/main.cpp.o.d"
   "blob_tracking"
   "blob_tracking.pdb"
 )

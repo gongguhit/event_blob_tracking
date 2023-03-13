@@ -1,3 +1,3 @@
-/home/gg/Desktop/event/event_blob_tracking/build/CMakeFiles/blob_tracking.dir
-/home/gg/Desktop/event/event_blob_tracking/build/CMakeFiles/edit_cache.dir
-/home/gg/Desktop/event/event_blob_tracking/build/CMakeFiles/rebuild_cache.dir
+/home/gg/Downloads/event/event_blob_tracking/build/CMakeFiles/rebuild_cache.dir
+/home/gg/Downloads/event/event_blob_tracking/build/CMakeFiles/edit_cache.dir
+/home/gg/Downloads/event/event_blob_tracking/build/CMakeFiles/blob_tracking.dir
