@@ -5,8 +5,8 @@
 #include <vector>
 #include <opencv2/opencv.hpp>
 #include <gflags/gflags.h>
-#include "event.hpp"
-#include "blob.hpp"
+#include "include/event.hpp"
+#include "include/blob.hpp"
 
 
 
@@ -118,8 +118,8 @@ int main(int argc, char** argv){
     cout << "Blob tracking." << endl;
 
     // Load events
-    string path = "/home/larrydong/codeGit/blob_tracking/src/night2_output.csv";
-    string event_frame_folder = "/home/larrydong/codeGit/blob_tracking/night_people/images";
+    string path = "/home/gg/Desktop/event/event_blob_tracking/data/night2_output.csv";
+    string event_frame_folder = "/home/gg/Desktop/event/event_blob_tracking/data/images";
     vector<Event> full_events = loadEvents(path);
     cout << "--> loaded " << full_events.size() << " events." << endl;
 
